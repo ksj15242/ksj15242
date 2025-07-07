@@ -1,4 +1,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksj15242)](https://solved.ac/ksj15242/)
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=K_SJ)
 
 <!--
 **ksj15242/ksj15242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
